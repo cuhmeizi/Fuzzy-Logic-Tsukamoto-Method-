@@ -1,0 +1,7 @@
+[R1] IF kecepatan LAMBAT dan suhu TINGGI then frekuensi KECIL
+"a_predikat1 = min(miuLAMBAT[4000], miuTINGGI[300])"
+"a_predikat1 = min(0,25 ; 0,4)"
+"a_predikat1 = 0,25"
+z1 = zmax - a_predikat1 (zmax-zmin)
+"z1 = 7000 - 0,25(7000-2000)"
+z1 = 5750 rpm
