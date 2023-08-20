@@ -1,5 +1,6 @@
 # Fuzzy-Logic-Tsukamoto-Method-
 Sistem Kontrol Frekuensi Putas Kipas Angin Otomatis.
+
 Tahapan input program
 * Jumlah Variable = 4
 * variable_speed low : 1000 high : 5000, variable_temperature low : 100 high : 600, variable_frek low : 2000 high : 7000
